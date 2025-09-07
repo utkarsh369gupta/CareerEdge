@@ -56,8 +56,8 @@ const HeroSection = () => {
           <div ref={imageRef} className="hero-image">
             <Image
               src="/banner.png"
-              width={1280}
-              height={720}
+              width={1200}
+              height={600}
               alt="Dashboard Preview"
               className="rounded-lg shadow-2xl border mx-auto"
               priority
